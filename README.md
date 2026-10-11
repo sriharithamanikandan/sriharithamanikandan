@@ -1,5 +1,16 @@
 <div align="center">
 
+<img src="header.svg" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C4A5FF&center=true&width=600&lines=Software+Development;Data+Analytics+%7C+Machine+Learning;Open+to+internship+opportunities" alt="Typing" />
+
+<br/>
+
+<img src="coding.gif" width="300" alt="coding gif" />
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:db7093&height=220&section=header&text=Sri%20Haritha%20Manikandan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Third-year%20CSE%20Student&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
