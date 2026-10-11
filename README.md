@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Sri Haritha Manikandan 🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:db7093&height=220&section=header&text=Sri%20Haritha%20Manikandan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Third-year%20CSE%20Student&descSize=18&descAlignY=58" width="100%" />
 
-### Third-year Computer Science Engineering student
-
-**Software Development · Data Analytics · Machine Learning**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Development;Data+Analytics+%7C+Machine+Learning;Building+projects+and+learning+every+day;Open+to+internship+opportunities" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -18,25 +18,16 @@ I'm interested in internship opportunities where I can continue developing my sk
 
 ## Technical Skills
 
-**Web Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,react,nodejs,mongodb,git,github&perline=11" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E9DDF9?style=flat-square&logo=html5&logoColor=6E5A92)
-![CSS3](https://img.shields.io/badge/CSS3-FCE4EC?style=flat-square&logo=css3&logoColor=9B607A)
-![JavaScript](https://img.shields.io/badge/JavaScript-E9DDF9?style=flat-square&logo=javascript&logoColor=6E5A92)
-
-**Programming Languages**
-
-![C](https://img.shields.io/badge/C-FCE4EC?style=flat-square&logo=c&logoColor=9B607A)
-![Java](https://img.shields.io/badge/Java-E9DDF9?style=flat-square&logo=openjdk&logoColor=6E5A92)
-![Python](https://img.shields.io/badge/Python-FCE4EC?style=flat-square&logo=python&logoColor=9B607A)
-
-**Data & Productivity**
-
-![Excel](https://img.shields.io/badge/Excel-E9DDF9?style=flat-square&logo=microsoftexcel&logoColor=6E5A92)
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-E9DDF9?style=flat-square&logo=microsoftexcel&logoColor=6E5A92" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FCE4EC?style=flat-square&logoColor=9B607A" />
+</p>
 
 ## Design & Development Interests
-
-These are areas I’m interested in exploring:
 
 - UI Design · UX Design
 - Wireframing · Prototyping
@@ -50,22 +41,24 @@ A fraud-detection project using an imbalanced transaction dataset. The notebook 
 
 ## GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriharithamanikandan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=fffafd&amp;title_color=8b5cf6&amp;icon_color=db7093&amp;text_color=5b5366" alt="Sri Haritha's GitHub statistics" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriharithamanikandan&amp;hide_border=true&amp;background=fffafd&amp;ring=b7a2e8&amp;fire=dc8bb1&amp;currStreakLabel=8b5cf6&amp;sideLabels=7b6b8b&amp;dates=8e829a" alt="GitHub contribution streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sriharithamanikandan&show_icons=true&hide_border=true&bg_color=fffafd&title_color=8b5cf6&icon_color=db7093&text_color=5b5366" height="170" />
+<img src="https://streak-stats.demolab.com?user=sriharithamanikandan&hide_border=true&background=fffafd&ring=b7a2e8&fire=dc8bb1&currStreakLabel=8b5cf6&sideLabels=7b6b8b&dates=8e829a" height="170" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sriharithamanikandan&theme=onedark&no-frame=true&row=1&column=7" />
+
+</div>
 
 ## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-haritha-m-913086391/">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-E9DDF9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6E5A92" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E9DDF9?style=for-the-badge&logo=linkedin&logoColor=6E5A92" />
   </a>
-  &nbsp;
   <a href="https://github.com/sriharithamanikandan">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-FCE4EC?style=for-the-badge&amp;logo=github&amp;logoColor=9B607A" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-FCE4EC?style=for-the-badge&logo=github&logoColor=9B607A" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db7093,100:8b5cf6&height=100&section=footer" width="100%" />
