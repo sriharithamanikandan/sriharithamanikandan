@@ -1,0 +1,28 @@
+<svg width="700" height="270" viewBox="0 0 700 270" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <defs>
+    <clipPath id="c1"><rect x="20" y="57" height="26" width="0"><animate attributeName="width" from="0" to="640" dur="1.8s" begin="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="20" y="92" height="26" width="0"><animate attributeName="width" from="0" to="640" dur="1.8s" begin="2.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="20" y="127" height="26" width="0"><animate attributeName="width" from="0" to="640" dur="1.8s" begin="4.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="20" y="162" height="26" width="0"><animate attributeName="width" from="0" to="640" dur="1.8s" begin="6.5s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="700" height="270" rx="12" fill="#0d1117" stroke="#3b1f6b" stroke-width="2"/>
+  <rect x="1" y="1" width="698" height="36" rx="11" fill="#1c1330"/>
+  <rect x="1" y="24" width="698" height="13" fill="#1c1330"/>
+  <circle cx="26" cy="19" r="6" fill="#f472b6"/>
+  <circle cx="48" cy="19" r="6" fill="#c4a5ff"/>
+  <circle cx="70" cy="19" r="6" fill="#8b5cf6"/>
+  <text x="350" y="24" text-anchor="middle" font-family="monospace" font-size="13" fill="#9ca3af">sri@portfolio: ~</text>
+
+  <g font-family="monospace" font-size="17">
+    <g clip-path="url(#c1)"><text x="24" y="76"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">name   </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Sri Haritha Manikandan</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="24" y="111"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">role   </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Third-year CSE Student</tspan></text></g>
+    <g clip-path="url(#c3)"><text x="24" y="146"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">skills </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Python | Java | JS | React</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="24" y="181"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">status </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Open to internships</tspan></text></g>
+
+    <text x="24" y="224" fill="#f472b6" opacity="0">$ <animate attributeName="opacity" from="0" to="1" begin="8.5s" dur="0.1s" fill="freeze"/></text>
+    <rect x="46" y="209" width="10" height="20" fill="#c4a5ff" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="8.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
