@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="coding.gif" width="300" alt="coding gif" />
+<img src="terminal.svg" width="700" alt="terminal" />
 
 </div>
 
