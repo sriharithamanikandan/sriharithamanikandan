@@ -17,7 +17,7 @@
   <g font-family="monospace" font-size="17">
     <g clip-path="url(#c1)"><text x="24" y="76"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">name   </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Sri Haritha Manikandan</tspan></text></g>
     <g clip-path="url(#c2)"><text x="24" y="111"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">role   </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Third-year CSE Student</tspan></text></g>
-    <g clip-path="url(#c3)"><text x="24" y="146"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">skills </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Python | Java | JS | React</tspan></text></g>
+    <g clip-path="url(#c3)"><text x="24" y="146"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">skills </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">HTML | CSS | JS | React | Excel | Web Developement</tspan></text></g>
     <g clip-path="url(#c4)"><text x="24" y="181"><tspan fill="#f472b6">$ </tspan><tspan fill="#c4a5ff">status </tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#ffffff">Open to internships</tspan></text></g>
 
     <text x="24" y="224" fill="#f472b6" opacity="0">$ <animate attributeName="opacity" from="0" to="1" begin="8.5s" dur="0.1s" fill="freeze"/></text>
