@@ -43,14 +43,14 @@ A fraud-detection project using an imbalanced transaction dataset. The notebook 
 
 ## GitHub at a Glance
 
-<div align="center">
+<h2 align="center">🔥 My GitHub Streak</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sriharithamanikandan&show_icons=true&hide_border=true&bg_color=fffafd&title_color=8b5cf6&icon_color=db7093&text_color=5b5366" height="170" />
-<img src="https://streak-stats.demolab.com?user=sriharithamanikandan&hide_border=true&background=fffafd&ring=b7a2e8&fire=dc8bb1&currStreakLabel=8b5cf6&sideLabels=7b6b8b&dates=8e829a" height="170" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=sriharithamanikandan&theme=onedark&no-frame=true&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="Sri Haritha's GitHub Streak"
+  />
+</p>
 
 ## Connect With Me
 
